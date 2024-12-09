@@ -1,0 +1,31 @@
+										12/9/2024-PĐ
+*Pac-Man (パックマン Pakkuman) là một trò chơi arcade được phát triển bởi Namco
+ *Phát hành đầu tiên tại Nhật Bản vào 22 tháng 5 năm 1980.
+ *Pac-Man là trò chơi điện tử được biết đến nhiều nhất đối với những người chơi Hoa Kỳ, trong đó con số trong cuộc khảo sát là 94%
+ *Tên gọi ban đầu của trò chơi này là "Puck-Man" nhưng rồi khi phát hành sang Mỹ, tên được đổi lại thành "Pac-Man" để tránh bị sửa đổi thành một từ thô tục. 
+
+Pac-Man (パックマン Pakkuman) is an arcade game developed by Namco.
+---------------------------******--------------------------------------------------------------------------------------------------------------------------------------
+It was first released in Japan on May 22, 1980.
+Pac-Man is the most well-known video game among American players, with 94% of respondents recognizing it in a survey.
+The original name of the game was "Puck-Man," but it was changed to "Pac-Man" when released in the United States to prevent it from being altered into a vulgar term.
+
+
+Note!!!!
+*Nếu Các Bạn có xem qua dự án tôi trên github thì hãy đừng quên cho tôi một bình luận và yêu thích ,
+ * tuy dự án này không phải tôi tự viết hết , tôi đã phải dựa vào những gợi ý là những thư viện có sẵn để giúp tôi hoàn thành , mong mọi người nếu có đọc được thì hãy thông cảm cho tôi vì những sự sai sót nếu các bạn thấy trong dự án tôi gửi,
+ *  tôi mong nếu khoảng vài năm nữa tôi sẽ cố gắng kiếm thêm những dự án hay ho để đăng lên cho các bạn cùng xem .*
+
+If you happen to check out my project on GitHub, please don't forget to leave me a comment and a like. Although I didn't write the entire project from scratch,
+I relied on suggestions and available libraries to help me complete it. I hope you can understand and be forgiving of any mistakes you might find in the project I shared. I aim to create and upload more exciting projects for everyone to see in the coming years.
+In this project, I only used the SSD1306 with the STM32F103C8T6 and four buttons connected to the PA pins for control.
+
+At first, I planned to create Super Mario, but after a few days, I reconsidered.
+I realized that when I tried to combine images within a single frame, it sometimes resulted in distortion or errors.
+So, I thought, why not aim for something simpler, like the frame structure of the classic Nokia Bounce game? I decided to use Pac-Man as the character.
+As a result, I combined these ideas and named it Super Pac-ManB.
+
+Here is the YouTube channel I referenced to develop my project:
+->https://www.youtube.com/watch?v=iG-aBJrOFpU
+
+Thank you everyone for watching this project. If there are any mistakes, please comment and let me know. Love Everyone.

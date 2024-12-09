@@ -1,0 +1,16 @@
+../Core/Src/main.c:58:6:DrawPellet	32	static
+../Core/Src/main.c:68:6:move_pacman	24	static
+../Core/Src/main.c:87:6:generate_pellets	32	static
+../Core/Src/main.c:110:6:DrawPellets	16	static
+../Core/Src/main.c:119:5:check_collision_with_pellet	24	static
+../Core/Src/main.c:128:6:remove_pellet	16	static
+../Core/Src/main.c:137:6:draw_pacman	72	static
+../Core/Src/main.c:155:6:control_pacman	16	static
+../Core/Src/main.c:184:6:DrawFullScreenRoundedRectangle	40	static
+../Core/Src/main.c:197:6:DrawMap	72	static
+../Core/Src/main.c:227:6:are_pellets_left	16	static
+../Core/Src/main.c:235:6:display_win_message	8	static
+../Core/Src/main.c:243:6:draw_game	8	static
+../Core/Src/main.c:280:5:main	48	static
+../Core/Src/main.c:464:6:SystemClock_Config	72	static
+../Core/Src/main.c:521:6:Error_Handler	4	static,ignoring_inline_asm

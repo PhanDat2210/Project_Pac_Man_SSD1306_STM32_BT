@@ -1,0 +1,16 @@
+../Core/Src/main.c:58:6:DrawPellet	5
+../Core/Src/main.c:68:6:move_pacman	8
+../Core/Src/main.c:87:6:generate_pellets	6
+../Core/Src/main.c:110:6:DrawPellets	4
+../Core/Src/main.c:119:5:check_collision_with_pellet	4
+../Core/Src/main.c:128:6:remove_pellet	1
+../Core/Src/main.c:137:6:draw_pacman	2
+../Core/Src/main.c:155:6:control_pacman	11
+../Core/Src/main.c:184:6:DrawFullScreenRoundedRectangle	1
+../Core/Src/main.c:197:6:DrawMap	6
+../Core/Src/main.c:227:6:are_pellets_left	4
+../Core/Src/main.c:235:6:display_win_message	1
+../Core/Src/main.c:243:6:draw_game	1
+../Core/Src/main.c:280:5:main	6
+../Core/Src/main.c:464:6:SystemClock_Config	3
+../Core/Src/main.c:521:6:Error_Handler	1
